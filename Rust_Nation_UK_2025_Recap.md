@@ -68,7 +68,6 @@ Given a vector of integers and a target sum, return all unique pairs of indices 
 The same number cannot be used twice in a pair, and the pairs should be returned in ascending order of the first index.
 
 **Example:**
-
 ```rust
 assert_eq!(find_pairs(vec![2, 7, 11, 15], 9), vec![(0, 1)]);
 assert_eq!(find_pairs(vec![3, 2, 4, 1, 5], 7), vec![(0, 2), (1, 4)]);
@@ -157,6 +156,5 @@ I moved to a new place this week and am starting to adjust to the environment an
 
 That's all for now, Rustaceans. 
 
-John & Elley.
-
 *John & Elley.*
+
