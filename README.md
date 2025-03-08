@@ -16,9 +16,9 @@ Expect to receive it in your inbox once a week: Mondays - all by 0:10 AM!
 ## Our mission is simple
 
 - Share the best resources. We strive to provide you with the most valuable Rust resources available.
-- Free forever. We believe everyone deserves access to quality Rust knowledge, so we'll remain a free newsletter with no walled gardens (including featured links).
 - Add value. We aim to provide content that not only informs but also empowers you in your Rust development endeavors.
 - Prioritize you. We actively listen to your feedback and continuously refine our content to meet your needs.
+- Free forever. We believe everyone deserves access to quality Rust knowledge, so we'll remain a free newsletter with no walled gardens (including featured links).
 
 ## Meet Rust Bytes Editors
 
